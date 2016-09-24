@@ -1,0 +1,13 @@
+[I 160924 09:28:52 configuration:711] Gate One settings are incomplete.  A new <settings_dir>/10server.conf will be generated.
+[W 160924 09:28:52 app_terminal:2806] dtach command not found.  dtach support has been disabled.
+[I 160924 09:28:52 server:4179] Gate One License: AGPLv3 (http://www.gnu.org/licenses/agpl-3.0.html)
+[I 160924 09:28:52 server:4188] Imported applications: Terminal
+[I 160924 09:28:52 server:4340] Version: 1.2.0 (20160618135724)
+[I 160924 09:28:52 server:4341] Tornado version 4.4.1
+[I 160924 09:28:52 server:4361] Connections to this server will be allowed from the following origins: 'localhost:10443 127.0.0.1:10443 unregistered:10443 172.24.0.108:10443 172.18.0.8:10443'
+[I 160924 09:28:52 server:4381] No SSL private key found.  One will be generated.
+[I 160924 09:28:54 server:3678] No authentication method configured. All users will be ANONYMOUS
+[I 160924 09:28:54 server:3759] Loaded global plugins: gateone.plugins.editor, gateone.plugins.help
+[I 160924 09:28:54 server:4492] Listening on https://*:10443/
+[I 160924 09:28:54 server:4545] Process running with pid 986
+[I 160924 09:29:24 async:514] Shutting down the MultiprocessRunner executor.

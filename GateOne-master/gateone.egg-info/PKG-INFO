@@ -1,0 +1,30 @@
+Metadata-Version: 1.1
+Name: gateone
+Version: 1.2.0
+Summary: Web-based Terminal Emulator and SSH Client
+Home-page: http:/liftoffsoftware.com/Products/GateOne
+Author: Dan McDougall
+Author-email: daniel.mcdougall@liftoffsoftware.com
+License: AGPLv3 or Proprietary
+Description: Gate One is a web-based terminal emulator and SSH client that requires no browser plugins and includes many unique and advanced features.
+Keywords: web administration terminal vt100 xterm emulation html5 console web-to-host
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Unix
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: License :: Other/Proprietary License
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Terminals
+Provides: gateone
+Provides: termio
+Provides: terminal
+Provides: onoff
